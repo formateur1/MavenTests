@@ -2,6 +2,10 @@ package com.inti;
 
 import java.util.List;
 
+
+/*
+ * La classe utile qui contient toutes les fonctions utiles à notre application
+ */
 public class Utile {
 
 	public double caclulMoyenne(List<Double> listeSalaire) throws Exception {
